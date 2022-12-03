@@ -1,2 +1,2 @@
-# -lk-Web-Sayfam-z-Olu-turmak
+# -ilkwebsayfamizioluşturmak
 Web sayfası
